@@ -6,9 +6,17 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
   return (
+    <div>
     <h1 className="text-3xl font-bold underline">
-      Hello world Test!
+      LAB 5 Test!
     </h1>
+    <li>
+      Name:丁治鈞
+    </li>
+    <li>
+      Student ID:R10521219
+    </li>
+    </div>
   )
   return (
     <div className="App">
